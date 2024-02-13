@@ -15,7 +15,7 @@ toc: true
 
 ABC 解説まとめ (高難易度のみ)。H/Ex は H で統一。リンクの横にある見出しは検索用
 
-最終更新日：2023 年 8 月 29 日
+最終更新日：2024 年 2 月 13 日
 
 - [ABC208F: Cumulative Sum](https://atcoder.jp/editorial_from_task?id=2195&taskScreenName=abc208_f) $\mathrm{O}(N)$ ラグランジュ補間
 - [ABC213G: Connectivity 2](https://atcoder.jp/editorial_from_task?id=2392&taskScreenName=abc213_g) 連結性に関する $\mathrm{O}(3^N)$ DP
@@ -47,3 +47,6 @@ ABC 解説まとめ (高難易度のみ)。H/Ex は H で統一。リンクの�
 - [ABC305H: Shojin](https://atcoder.jp/contests/abc305/editorial/6534) 劣モジュラ, Monge 性
 - [ABC311H: Many Illumination Plans](https://atcoder.jp/contests/abc311/editorial/6814) 重軽再帰 DP
 - [ABC317H: Walk](https://atcoder.jp/contests/abc317/editorial/7013) 母関数を係数に持つ行列を考える
+- [ABC327G: Many Good Tuple Problems](https://atcoder.jp/contests/abc327/editorial/7557) 二部グラフの数え上げ
+- [ABC336G: 16 Integers](https://atcoder.jp/contests/abc336/editorial/9060) オイラーグラフの数え上げ, BEST 定理
+- [ABC340G: Leaf Color](https://atcoder.jp/contests/abc340/editorial/9249) Auxiliary Tree
