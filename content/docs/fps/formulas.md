@@ -2,8 +2,8 @@
 title: "公式集"
 description: ""
 lead: ""
-date: 2021-05-05T02:52:07+09:00
-lastmod: 2021-05-05T02:52:07+09:00
+date: 2999-05-05T02:52:07+09:00
+lastmod: 2999-05-05T02:52:07+09:00
 draft: true
 images: []
 menu: 
@@ -13,7 +13,7 @@ weight: 999
 toc: true
 ---
 
-形式的冪級数の公式をまとめた。
+(数式の表示確認用) 
 
 ### 前提知識
 
@@ -83,3 +83,4 @@ $[\mathrm{cond}]$ は $\mathrm{cond}$ が真の時に $1$、偽の時に $0$ を
 |$a_k,a_{k+1},a_{k+2},\ldots$|$a_{n+k}$|$\left(\frac{d}{dx}\right)^kA(x)$|
 |$0,a_0,2a_1,3a_2,\ldots$|$na_{n-1}$|$xA(x)$|
 ||$\sum_{i+j=n}a_ib_j \binom{i + j}{i}$|$A(x)B(x)$|
+

@@ -1,6 +1,6 @@
 [[main]]
   name = "Article"
-  url = "/docs/menu"
+  url = "/docs"
   weight = 10
 
 [[main]]

@@ -15,7 +15,7 @@ toc: true
 
 自分が原案を担当した問題をまとめた。(注：ABC は原案担当と準備担当が分かれているため、自分が準備者でない問題も存在する。)
 
-最終更新日：2023 年 8 月 29 日
+最終更新日：2024 年 2 月 13 日
 
 <script>
 window.addEventListener('load', function () {
@@ -217,6 +217,24 @@ function compareStringDesc(a, b) {
 <tr><td>ABC315</td><td>ABC-H</td><td><a href=https://atcoder.jp/contests/abc315/tasks/abc315_h>Typical Convolution Problem</a></td><td>2807</td></tr>
 <tr><td>ABC317</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc317/tasks/abc317_g>Rearranging</a></td><td>2649</td></tr>
 <tr><td>ABC317</td><td>ABC-H</td><td><a href=https://atcoder.jp/contests/abc317/tasks/abc317_h>Walk</a></td><td>3426</td></tr>
+<tr><td>ABC318</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc318/tasks/abc318_g>Typical Path Problem</a></td><td>2260</td></tr>
+<tr><td>ABC319</td><td>ABC-A</td><td><a href=https://atcoder.jp/contests/abc319/tasks/abc319_a>Legendary Players</a></td><td>10</td></tr>
+<tr><td>ABC319</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc319/tasks/abc319_f>Fighter Takahashi</a></td><td>2480</td></tr>
+<tr><td>ABC322</td><td>ABC-A</td><td><a href=https://atcoder.jp/contests/abc322/tasks/abc322_a>First ABC 2</a></td><td>12</td></tr>
+<tr><td>ABC322</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc322/tasks/abc322_b>Prefix and Suffix</a></td><td>54</td></tr>
+<tr><td>ABC322</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc322/tasks/abc322_d>Polyomino</a></td><td>1310</td></tr>
+<tr><td>ABC322</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc322/tasks/abc322_f>Vacation Query</a></td><td>1806</td></tr>
+<tr><td>ABC327</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc327/tasks/abc327_d>Good Tuple Problem</a></td><td>709</td></tr>
+<tr><td>ABC327</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc327/tasks/abc327_g>Many Good Tuple Problems</a></td><td>2968</td></tr>
+<tr><td>ABC331</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc331/tasks/abc331_e>Set Meal</a></td><td>1018</td></tr>
+<tr><td>ABC331</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc331/tasks/abc331_f>Palindrome Query</a></td><td>1666</td></tr>
+<tr><td>ABC336</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc336/tasks/abc336_b>CTZ</a></td><td>27</td></tr>
+<tr><td>ABC336</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc336/tasks/abc336_c>Even Digits</a></td><td>343</td></tr>
+<tr><td>ABC336</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc336/tasks/abc336_e>Digit Sum Divisible</a></td><td>1538</td></tr>
+<tr><td>ABC336</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc336/tasks/abc336_g>16 Integers</a></td><td>3138</td></tr>
+<tr><td>ABC340</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_c>Divide and Divide</a></td><td>528</td></tr>
+<tr><td>ABC340</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_f>S = 1</a></td><td>1516</td></tr>
+<tr><td>ABC340</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_g>Leaf Color</a></td><td>2401</td></tr>
 <tr><td>ARC139</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc139/tasks/arc139_a>Trailing Zeros</a></td><td>599</td></tr>
 <tr><td>ARC139</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc139/tasks/arc139_e>Wazir</a></td><td>3222</td></tr>
 <tr><td>ARC148</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc148/tasks/arc148_a>mod M</a></td><td>656</td></tr>
@@ -228,12 +246,19 @@ function compareStringDesc(a, b) {
 <tr><td>ARC160</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc160/tasks/arc160_a>Reverse and Count</a></td><td>1275</td></tr>
 <tr><td>ARC160</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc160/tasks/arc160_e>Make Biconnected</a></td><td>3284</td></tr>
 <tr><td>ARC160</td><td>ARC-F</td><td><a href=https://atcoder.jp/contests/arc160/tasks/arc160_f>Count Sorted Arrays</a></td><td>3202</td></tr>
-<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1754>T-block Tiling</a></td><td>0</td></tr>
-<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1755>Almost Palindrome</a></td><td>0</td></tr>
-<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1756>Rider's Triangle</a></td><td>0</td></tr>
-<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1759>Silver Tour</a></td><td>0</td></tr>
-<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1762>🐙🐄🌲</a></td><td>0</td></tr>
+<tr><td>ARC171</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_a>No Attacking</a></td><td>614</td></tr>
+<tr><td>ARC171</td><td>ARC-B</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_b>Chmax</a></td><td>1374</td></tr>
+<tr><td>ARC171</td><td>ARC-C</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_c>Swap on Tree</a></td><td>2244</td></tr>
+<tr><td>ARC171</td><td>ARC-D</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_d>Rolling Hash</a></td><td>2377</td></tr>
+<tr><td>ARC171</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_e>Rookhopper's Tour</a></td><td>3034</td></tr>
+<tr><td>ARC171</td><td>ARC-F</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_f>Both Reversible</a></td><td>3730</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1754>T-block Tiling</a></td><td>400</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1755>Almost Palindrome</a></td><td>2000</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1756>Rider's Triangle</a></td><td>2000</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1759>Silver Tour</a></td><td>2800</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1762>🐙🐄🌲</a></td><td>3600</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1783>Remix Sum</a></td><td>0</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/2166>Paint and Fill</a></td><td>0</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/2583>Differential Equation (Enhanced version)</a></td><td>0</td></tr>
 </table>
 
