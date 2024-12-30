@@ -15,7 +15,7 @@ toc: true
 
 自分が原案を担当した問題をまとめた。(注：ABC は原案担当と準備担当が分かれているため、自分が準備者でない問題も存在する。)
 
-最終更新日：2024 年 2 月 13 日
+最終更新日：2024 年 12 月 31 日
 
 <script>
 window.addEventListener('load', function () {
@@ -185,9 +185,9 @@ function compareStringDesc(a, b) {
 <tr><td>ABC296</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc296/tasks/abc296_f>Simultaneous Swap</a></td><td>1811</td></tr>
 <tr><td>ABC297</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc297/tasks/abc297_c>PC on the Table</a></td><td>96</td></tr>
 <tr><td>ABC297</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc297/tasks/abc297_d>Count Subtractions</a></td><td>273</td></tr>
-<tr><td>ABC298</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc298/tasks/abc298_d>Writing a Numeral</a></td><td>943</td></tr>
-<tr><td>ABC298</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc298/tasks/abc298_e>Unfair Sugoroku</a></td><td>1341</td></tr>
-<tr><td>ABC299</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc299/tasks/abc299_g>Minimum Permutation</a></td><td>2088</td></tr>
+<tr><td>ABC298</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc298/tasks/abc298_d>Writing a Numeral</a></td><td>882</td></tr>
+<tr><td>ABC298</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc298/tasks/abc298_e>Unfair Sugoroku</a></td><td>1300</td></tr>
+<tr><td>ABC299</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc299/tasks/abc299_g>Minimum Permutation</a></td><td>2066</td></tr>
 <tr><td>ABC300</td><td>ABC-A</td><td><a href=https://atcoder.jp/contests/abc300/tasks/abc300_a>N-choice question</a></td><td>8</td></tr>
 <tr><td>ABC300</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc300/tasks/abc300_b>Same Map in the RPG World</a></td><td>353</td></tr>
 <tr><td>ABC300</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc300/tasks/abc300_c>Cross</a></td><td>534</td></tr>
@@ -235,6 +235,29 @@ function compareStringDesc(a, b) {
 <tr><td>ABC340</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_c>Divide and Divide</a></td><td>528</td></tr>
 <tr><td>ABC340</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_f>S = 1</a></td><td>1516</td></tr>
 <tr><td>ABC340</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc340/tasks/abc340_g>Leaf Color</a></td><td>2401</td></tr>
+<tr><td>ABC342</td><td>ABC-A</td><td><a href=https://atcoder.jp/contests/abc342/tasks/abc342_a>Yay!</a></td><td>31</td></tr>
+<tr><td>ABC342</td><td>ABC-C</td><td><a href=https://atcoder.jp/contests/abc342/tasks/abc342_c>Many Replacement</a></td><td>505</td></tr>
+<tr><td>ABC345</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc345/tasks/abc345_b>Integer Division Returns</a></td><td>91</td></tr>
+<tr><td>ABC345</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc345/tasks/abc345_f>Many Lamps</a></td><td>2157</td></tr>
+<tr><td>ABC345</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc345/tasks/abc345_g>Sugoroku 5</a></td><td>3343</td></tr>
+<tr><td>ABC347</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc347/tasks/abc347_g>Grid Coloring 2</a></td><td>2876</td></tr>
+<tr><td>ABC351</td><td>ABC-A</td><td><a href=https://atcoder.jp/contests/abc351/tasks/abc351_a>The bottom of the ninth</a></td><td>11</td></tr>
+<tr><td>ABC351</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc351/tasks/abc351_b>Spot the Difference</a></td><td>34</td></tr>
+<tr><td>ABC351</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc351/tasks/abc351_g>Hash on Tree</a></td><td>2920</td></tr>
+<tr><td>ABC357</td><td>ABC-B</td><td><a href=https://atcoder.jp/contests/abc357/tasks/abc357_b>Uppercase and Lowercase</a></td><td>26</td></tr>
+<tr><td>ABC357</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc357/tasks/abc357_e>Reachability in Functional Graph</a></td><td>1295</td></tr>
+<tr><td>ABC357</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc357/tasks/abc357_g>Stair-like Grid</a></td><td>3159</td></tr>
+<tr><td>ABC363</td><td>ABC-D</td><td><a href=https://atcoder.jp/contests/abc363/tasks/abc363_d>Palindromic Number</a></td><td>975</td></tr>
+<tr><td>ABC363</td><td>ABC-F</td><td><a href=https://atcoder.jp/contests/abc363/tasks/abc363_f>Palindromic Expression</a></td><td>1913</td></tr>
+<tr><td>ABC363</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc363/tasks/abc363_g>Dynamic Scheduling</a></td><td>3358</td></tr>
+<tr><td>ABC370</td><td>ABC-E</td><td><a href=https://atcoder.jp/contests/abc370/tasks/abc370_e>Avoid K Partition</a></td><td>1453</td></tr>
+<tr><td>ABC370</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc370/tasks/abc370_g>Divisible by 3</a></td><td>3428</td></tr>
+<tr><td>ABC376</td><td>ABC-G</td><td><a href=https://atcoder.jp/contests/abc376/tasks/abc376_g>Treasure Hunting</a></td><td>2858</td></tr>
+<tr><td>AGC070</td><td>AGC-A</td><td><a href=https://atcoder.jp/contests/agc070/tasks/agc070_a>Multiples in the String</a></td><td>2006</td></tr>
+<tr><td>AGC070</td><td>AGC-B</td><td><a href=https://atcoder.jp/contests/agc070/tasks/agc070_b>Odd Namori</a></td><td>3217</td></tr>
+<tr><td>AGC070</td><td>AGC-C</td><td><a href=https://atcoder.jp/contests/agc070/tasks/agc070_c>No Streak</a></td><td>2983</td></tr>
+<tr><td>AGC070</td><td>AGC-D</td><td><a href=https://atcoder.jp/contests/agc070/tasks/agc070_d>2D Solitaire</a></td><td>4211</td></tr>
+<tr><td>AGC070</td><td>AGC-E</td><td><a href=https://atcoder.jp/contests/agc070/tasks/agc070_e>Remove 2K+1 Edges</a></td><td>9999</td></tr>
 <tr><td>ARC139</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc139/tasks/arc139_a>Trailing Zeros</a></td><td>599</td></tr>
 <tr><td>ARC139</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc139/tasks/arc139_e>Wazir</a></td><td>3222</td></tr>
 <tr><td>ARC148</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc148/tasks/arc148_a>mod M</a></td><td>656</td></tr>
@@ -252,6 +275,11 @@ function compareStringDesc(a, b) {
 <tr><td>ARC171</td><td>ARC-D</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_d>Rolling Hash</a></td><td>2377</td></tr>
 <tr><td>ARC171</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_e>Rookhopper's Tour</a></td><td>3034</td></tr>
 <tr><td>ARC171</td><td>ARC-F</td><td><a href=https://atcoder.jp/contests/arc171/tasks/arc171_f>Both Reversible</a></td><td>3730</td></tr>
+<tr><td>ARC185</td><td>ARC-A</td><td><a href=https://atcoder.jp/contests/arc185/tasks/arc185_a>mod M Game 2</a></td><td>1042</td></tr>
+<tr><td>ARC185</td><td>ARC-B</td><td><a href=https://atcoder.jp/contests/arc185/tasks/arc185_b>+1 and -1</a></td><td>1332</td></tr>
+<tr><td>ARC185</td><td>ARC-C</td><td><a href=https://atcoder.jp/contests/arc185/tasks/arc185_c>Sum of Three Integers</a></td><td>2242</td></tr>
+<tr><td>ARC185</td><td>ARC-D</td><td><a href=https://atcoder.jp/contests/arc185/tasks/arc185_d>Random Walk on Tree</a></td><td>2649</td></tr>
+<tr><td>ARC185</td><td>ARC-E</td><td><a href=https://atcoder.jp/contests/arc185/tasks/arc185_e>Adjacent GCD</a></td><td>2185</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1754>T-block Tiling</a></td><td>400</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1755>Almost Palindrome</a></td><td>2000</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1756>Rider's Triangle</a></td><td>2000</td></tr>
@@ -260,5 +288,6 @@ function compareStringDesc(a, b) {
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/1783>Remix Sum</a></td><td>0</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/2166>Paint and Fill</a></td><td>0</td></tr>
 <tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/2583>Differential Equation (Enhanced version)</a></td><td>0</td></tr>
+<tr><td>yuki</td><td>yuki</td><td><a href=https://yukicoder.me/problems/no/3000>Optimal Run Length Encoding</a></td><td>0</td></tr>
 </table>
 

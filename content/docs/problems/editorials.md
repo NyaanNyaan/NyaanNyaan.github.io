@@ -15,7 +15,7 @@ toc: true
 
 ABC 解説まとめ (高難易度のみ)。H/Ex は H で統一。リンクの横にある見出しは検索用
 
-最終更新日：2024 年 2 月 13 日
+最終更新日：2024 年 12 月 31 日
 
 - [ABC208F: Cumulative Sum](https://atcoder.jp/editorial_from_task?id=2195&taskScreenName=abc208_f) $\mathrm{O}(N)$ ラグランジュ補間
 - [ABC213G: Connectivity 2](https://atcoder.jp/editorial_from_task?id=2392&taskScreenName=abc213_g) 連結性に関する $\mathrm{O}(3^N)$ DP
@@ -50,3 +50,10 @@ ABC 解説まとめ (高難易度のみ)。H/Ex は H で統一。リンクの�
 - [ABC327G: Many Good Tuple Problems](https://atcoder.jp/contests/abc327/editorial/7557) 二部グラフの数え上げ
 - [ABC336G: 16 Integers](https://atcoder.jp/contests/abc336/editorial/9060) オイラーグラフの数え上げ, BEST 定理
 - [ABC340G: Leaf Color](https://atcoder.jp/contests/abc340/editorial/9249) Auxiliary Tree
+- [ABC345G: Sugoroku 5](https://atcoder.jp/contests/abc345/editorial/9549) ニュートン法, ラグランジュの反転公式
+- [ABC351G: Hash on Tree](https://atcoder.jp/contests/abc351/editorial/9868) Static top tree
+- [ABC357G: Stair-like Grid](https://atcoder.jp/contests/abc357/editorial/10179) 分割統治 FFT
+- [ABC363G: Dynamic Scheduling](https://atcoder.jp/contests/abc363/editorial/10451) Segment Tree 分割統治, 費用流のシミュレーション
+- [ABC370G: Divisible by 3](https://atcoder.jp/contests/abc370/editorial/10869) 乗法的関数の prefix sum
+- [ABC376G: Treasure Hunting](https://atcoder.jp/contests/abc376/editorial/11196) 01 on Tree
+- [ABC381G: Fibonacci Product](https://atcoder.jp/contests/abc381/editorial/11378) 体の拡大, Chirp z-transform
